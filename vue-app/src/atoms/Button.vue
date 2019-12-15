@@ -6,16 +6,6 @@
 
 <script>
 export default {
-  name: '',
-  data: () => ({
-
-  }),
-  methods: {
-
-  },
+  name: 'Button',
 };
 </script>
-
-<style scoped>
-
-</style>

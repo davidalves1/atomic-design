@@ -1,16 +1,16 @@
 <template>
   <div>
-    <h1>Template carregado...</h1>
-    <Button>Teste</Button>
+    <Header />
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-import Button from '../atoms/Button';
+import Header from '../organisms/Header.vue';
 
 export default {
   name: 'MainTemplate',
-  components: { Button },
+  components: { Header },
   data: () => ({
 
   }),

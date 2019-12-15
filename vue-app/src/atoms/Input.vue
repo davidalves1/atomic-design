@@ -5,12 +5,6 @@
 <script>
 export default {
   name: 'Input',
-  data: () => ({
-
-  }),
-  methods: {
-
-  },
 };
 </script>
 
